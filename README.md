@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://instagram.com/mclaw_mahlangu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mclaw_mahlangu" height="30" width="40" />
 </a>
 
 
