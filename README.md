@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I am Lucky Mahlangu</h1>
 <h3 align="center">A fervent Software Developer from South Africa</h3>
+<img align="right" alt="Coding" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mclawrance&label=Profile%20views&color=0e75b6&style=flat" alt="mclawrance" /> </p>
 
@@ -14,9 +15,11 @@
 - ⚡ Fun fact **I get things done**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/lucky-mahlangu-2aa726233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucky-mahlangu-2aa726233" height="30" width="40" /></a>
-  
+<a href="https://linkedin.com/in/www.linkedin.com/in/lucky-mahlangu-2aa726233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucky-mahlangu-2aa726233" height="30" width="40" />
+</a>
+
 <a href="https://instagram.com/mclaw_mahlangu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mclaw_mahlangu" height="30" width="40" />
 </a>
@@ -29,4 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mclawrance&show_icons=true&locale=en&layout=compact" alt="mclawrance" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mclawrance&show_icons=true&locale=en" alt="mclawrance" /></p>
+
 
