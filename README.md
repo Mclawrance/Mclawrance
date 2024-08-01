@@ -2,7 +2,7 @@
 <h3 align="center">A fervent Software Developer from South Africa</h3>
 <img align="right" alt="Coding" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mclawrance&label=Profile%20views&color=0e75b6&style=flat" alt="mclawrance" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-mahlangu&label=Profile%20views&color=0e75b6&style=flat" alt="lucky-mahlangu" /> </p>
 
 - 🔭 I’m currently working on **My portfolio**
 
